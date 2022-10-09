@@ -1,2 +1,2 @@
 # Python-Codes
-Here are Some Python Helpful Codes..
+Here are Some Helpful Python Codes..
