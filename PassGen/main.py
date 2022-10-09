@@ -19,7 +19,7 @@ for i in range(pwd_length):
 
 print(pwd)
 
-# Generates Password Meeting Constriants
+# Generates Password Meeting Constraints
 while True:
   pwd = ''
   for i in range(pwd_length):
